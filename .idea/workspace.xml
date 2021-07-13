@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d4f20c69-fd98-4555-a57d-afccfb9734e0" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="97a83d72-3fd9-443f-ab10-7c6cfdbb6516" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/OperadoresComparacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OperadoresComparacao.java" afterDir="false" />
+    </list>
+>>>>>>> 4898ae2e9229028bb8487d64f2ec7f60d21f131a
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +23,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1sp5gKBWrD1r5YaQ4avG0aeMrYq" />
+=======
+  <component name="ProjectId" id="1t30VW8a0ztXz3MeKb6oqqnzJIa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+>>>>>>> 4898ae2e9229028bb8487d64f2ec7f60d21f131a
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,14 +40,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Ex1080">
     <configuration name="Ex1002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1002" />
+=======
+  <component name="RunManager" selected="Application.CalculaNotasAlunos">
+    <configuration name="CalculaNotasAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculaNotasAlunos" />
+>>>>>>> 4898ae2e9229028bb8487d64f2ec7f60d21f131a
       <module name="Arquivos Curso" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Ex1079" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1079" />
       <module name="Arquivos Curso" />
@@ -58,6 +78,10 @@
     </configuration>
     <configuration name="Uri1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Uri1001" />
+=======
+    <configuration name="OperadoresComparacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperadoresComparacao" />
+>>>>>>> 4898ae2e9229028bb8487d64f2ec7f60d21f131a
       <module name="Arquivos Curso" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,17 +89,23 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Ex1080" />
         <item itemvalue="Application.Ex1002" />
         <item itemvalue="Application.Uri1001" />
         <item itemvalue="Application.Uri1000" />
         <item itemvalue="Application.Ex1079" />
+=======
+        <item itemvalue="Application.CalculaNotasAlunos" />
+        <item itemvalue="Application.OperadoresComparacao" />
+>>>>>>> 4898ae2e9229028bb8487d64f2ec7f60d21f131a
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="d4f20c69-fd98-4555-a57d-afccfb9734e0" name="Default Changelist" comment="" />
       <created>1621556799235</created>
       <option name="number" value="Default" />
@@ -125,4 +155,14 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+=======
+      <changelist id="97a83d72-3fd9-443f-ab10-7c6cfdbb6516" name="Default Changelist" comment="" />
+      <created>1621982490055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621982490055</updated>
+    </task>
+    <servers />
+  </component>
+>>>>>>> 4898ae2e9229028bb8487d64f2ec7f60d21f131a
 </project>
